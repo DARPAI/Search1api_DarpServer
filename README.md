@@ -1,6 +1,6 @@
 # 🔍 Search1api DarpServer
 
-A powerful server implementation that provides real-time search capabilities through Mcp , integrating with Search1API services.
+A powerful server implementation that provides real-time search capabilities through DARP, integrating with Search1API services.
 
 ## ✨ Features
 
